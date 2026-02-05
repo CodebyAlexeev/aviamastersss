@@ -1,2 +1,5 @@
-# aviamastersss
-Casino landing page: avia masters
+# avia masters
+
+Casino affiliate landing page generated automatically.
+
+View live: [GitHub Pages](https://CodebyAlexeev.github.io/aviamastersss/)
